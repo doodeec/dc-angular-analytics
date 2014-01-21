@@ -10,7 +10,7 @@ Tracks not just the first entering of index page, but also everytime the route c
 1. Include `analytics.js` in your project
 2. Define `angular-google-analytics` in your app.js main module dependencies
 
-    angular.module('myAwesomeApp', ['angular-google-analytics']).config(...
+    `angular.module('myAwesomeApp', ['angular-google-analytics']).config(...`
 
 #Licence
 
